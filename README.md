@@ -1,2 +1,3 @@
-# northwind_odata_example
-:globe_with_meridians: Northwind OData Client example
+# :globe_with_meridians: Northwind OData Access example
+ 
+ Northwind is publicly available OData service for test purpose.
